@@ -4,7 +4,7 @@
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>ThinkSoTech - Think it. We solve it.</title>
+    <title>ThinkSo Tech - Think it. We solve it.</title>
 
     <!-- ======= Google Font =======-->
     <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -45,9 +45,9 @@
                 <!-- Start Logo-->
                 <a class="navbar-brand w-auto" href="/">
                     <img class="logo dark img-fluid" style="width: 104px;" src="assets/logo/ThinkSo-1.svg"
-                        alt="ThinkSoTech Logo">
+                        alt="ThinkSo Tech Logo">
                     <img class="logo light img-fluid" style="width: 104px;" src="assets/logo/ThinkSo-1.svg"
-                        alt="ThinkSoTech Logo">
+                        alt="ThinkSo Tech Logo">
                 </a>
                 <!-- End Logo-->
 
@@ -59,9 +59,9 @@
                         <div class="offcanvas-header-logo">
                             <a class="logo-link" id="fbs__net-navbarsLabel" href="index.html">
                                 <img class="logo dark img-fluid" style="width: 104px;" src="assets/logo/ThinkSo-1.svg"
-                                    alt="ThinkSoTech Logo">
+                                    alt="ThinkSo Tech Logo">
                                 <img class="logo light img-fluid" style="width: 104px;" src="assets/logo/ThinkSo-1.svg"
-                                    alt="ThinkSoTech Logo"></a>
+                                    alt="ThinkSo Tech Logo"></a>
                         </div>
                         <button class="btn-close btn-close-black" type="button" data-bs-dismiss="offcanvas"
                             aria-label="Close"></button>
@@ -123,7 +123,7 @@
                                     <h1 class="hero-title mb-3" data-aos="fade-up" data-aos-delay="100">Innovate.
                                         Think. Solve.</h1>
                                     <p class="hero-description mb-4 mb-lg-5" data-aos="fade-up" data-aos-delay="200">
-                                        Welcome to ThinkSoTech — a modern software company turning ideas into
+                                        Welcome to ThinkSo Tech — a modern software company turning ideas into
                                         intelligent
                                         digital solutions. We simplify complexity through smart design, powerful code,
                                         and innovative technology.
@@ -164,7 +164,7 @@
                                     <h2 class="mb-4" data-aos="fade-up" data-aos-delay="100">Transform Your Ideas
                                         Into Powerful Digital Solutions</h2>
                                     <div data-aos="fade-up" data-aos-delay="200">
-                                        <p>ThinkSoTech is a forward-thinking software development company dedicated to
+                                        <p>ThinkSo Tech is a forward-thinking software development company dedicated to
                                             transforming
                                             ideas into scalable, intelligent products.</p>
                                         <p>From concept to code, we deliver digital solutions that empower
@@ -201,7 +201,7 @@
                         </div>
                         <div class="col-md-6">
                             <div class="img-wrap position-relative"><img class="img-fluid rounded-4"
-                                    src="assets/web/images/about.jpg" alt="About ThinkSoTech" data-aos="fade-up"
+                                    src="assets/web/images/about.jpg" alt="About ThinkSo Tech" data-aos="fade-up"
                                     data-aos-delay="0">
                                 <div class="mission-statement p-4 rounded-4 d-flex gap-4" data-aos="fade-up"
                                     data-aos-delay="100">
@@ -237,7 +237,7 @@
                                             <div class="col-lg-11">
                                                 <div class="h-100 flex-column justify-content-between d-flex">
                                                     <div>
-                                                        <h2 class="mb-4">Why Choose ThinkSoTech</h2>
+                                                        <h2 class="mb-4">Why Choose ThinkSo Tech</h2>
                                                         <p class="mb-5">Experience the future of software development
                                                             with our secure, efficient, and user-friendly solutions. Our
                                                             cutting-edge approach ensures your projects are delivered
@@ -735,7 +735,7 @@
                             <div class="testimonial rounded-4 p-4">
                                 <blockquote class="mb-3">
                                     &ldquo;
-                                    ThinkSoTech transformed our business idea into a fully functional web application.
+                                    ThinkSo Tech transformed our business idea into a fully functional web application.
                                     Their team's expertise and dedication were exceptional throughout the project.
                                     &rdquo;
                                 </blockquote>
@@ -751,7 +751,8 @@
                             <div class="testimonial rounded-4 p-4">
                                 <blockquote class="mb-3">
                                     &ldquo;
-                                    As a startup founder, I needed a reliable partner. ThinkSoTech delivered a beautiful
+                                    As a startup founder, I needed a reliable partner. ThinkSo Tech delivered a
+                                    beautiful
                                     e-commerce platform that exceeded my expectations. Highly recommended!
                                     &rdquo;
                                 </blockquote>
@@ -767,7 +768,8 @@
                             <div class="testimonial rounded-4 p-4">
                                 <blockquote class="mb-3">
                                     &ldquo;
-                                    The custom software solution ThinkSoTech built for us has streamlined our operations
+                                    The custom software solution ThinkSo Tech built for us has streamlined our
+                                    operations
                                     significantly. Their technical skills and project management were outstanding. We
                                     couldn't be happier with the results!
                                     &rdquo;
@@ -784,7 +786,7 @@
                             <div class="testimonial rounded-4 p-4">
                                 <blockquote class="mb-3">
                                     &ldquo;
-                                    Working with ThinkSoTech was a pleasure. They understood our vision and delivered a
+                                    Working with ThinkSo Tech was a pleasure. They understood our vision and delivered a
                                     mobile app that our users absolutely love. Professional and efficient!
                                     &rdquo;
                                 </blockquote>
@@ -816,7 +818,8 @@
                             <div class="testimonial rounded-4 p-4">
                                 <blockquote class="mb-3">
                                     &ldquo;
-                                    ThinkSoTech's support doesn't end at launch. They've been there for us every step of
+                                    ThinkSo Tech's support doesn't end at launch. They've been there for us every step
+                                    of
                                     the way, helping us grow and scale our platform.
                                     &rdquo;
                                 </blockquote>
@@ -854,10 +857,10 @@
                                             <button class="accordion-button" type="button" data-bs-toggle="collapse"
                                                 data-bs-target="#panelsStayOpen-collapseOne" aria-expanded="true"
                                                 aria-controls="panelsStayOpen-collapseOne"> What services does
-                                                ThinkSoTech offer? </button>
+                                                ThinkSo Tech offer? </button>
                                         </h2>
                                         <div class="accordion-collapse collapse show" id="panelsStayOpen-collapseOne">
-                                            <div class="accordion-body">ThinkSoTech offers comprehensive software
+                                            <div class="accordion-body">ThinkSo Tech offers comprehensive software
                                                 development services including custom software development, web and
                                                 mobile app development, e-commerce solutions, UI/UX design, cloud
                                                 services, and ongoing maintenance and support. We tailor our services to
@@ -994,14 +997,14 @@
                     </div>
                     <div class="row justify-content-between mb-5 g-xl-5">
                         <div class="col-md-4 mb-5 mb-lg-0">
-                            <h3 class="mb-3">About ThinkSoTech</h3>
-                            <p class="mb-4">ThinkSoTech is dedicated to transforming ideas into powerful digital
+                            <h3 class="mb-3">About ThinkSo Tech</h3>
+                            <p class="mb-4">ThinkSo Tech is dedicated to transforming ideas into powerful digital
                                 solutions. We combine technical expertise with creative innovation to deliver results
                                 that exceed expectations.</p>
                         </div>
                         <div class="col-md-7">
                             <div class="row g-2">
-                                <div class="col-md-6 col-lg-4 mb-4 mb-lg-0">
+                                <div class="col-md-6 col-lg-3 mb-4 mb-lg-0">
                                     <h3 class="mb-3">Company</h3>
                                     <ul class="list-unstyled">
                                         <li><a href="#about">About Us</a></li>
@@ -1012,15 +1015,15 @@
                                         <li><a href="#">Careers</a></li>
                                     </ul>
                                 </div>
-                                <div class="col-md-6 col-lg-4 mb-4 mb-lg-0">
+                                <div class="col-md-6 col-lg-5 mb-4 mb-lg-0">
                                     <h3 class="mb-3">Services</h3>
                                     <ul class="list-unstyled">
-                                        <li><a href="#services">Web Development</a></li>
-                                        <li><a href="#services">Mobile Apps</a></li>
-                                        <li><a href="#services">Custom Software</a></li>
-                                        <li><a href="#services">E-commerce</a></li>
-                                        <li><a href="#services">UI/UX Design</a></li>
-                                        <li><a href="#services">Cloud Services</a></li>
+                                        <li><a href="#services">Custom Software Development</a></li>
+                                        <li><a href="#services">Mobile App Development</a></li>
+                                        <li><a href="#services">AI & Machine Learning Solutions</a></li>
+                                        <li><a href="#services">HealthTech Solutions</a></li>
+                                        <li><a href="#services">GovTech & Enterprise Solutions</a></li>
+                                        <li><a href="#services">View All Services →</a></li>
                                     </ul>
                                 </div>
                                 <div class="col-md-6 col-lg-4 mb-4 mb-lg-0 quick-contact">
@@ -1043,7 +1046,7 @@
                             &copy;
                             <script>
                                 document.write(new Date().getFullYear());
-                            </script> ThinkSoTech. All rights reserved. Think it. We solve it.
+                            </script> ThinkSo Tech. All rights reserved. Think it. We solve it.
                         </div>
                         <div
                             class="col-xl-4 justify-content-start justify-content-xl-end quick-links d-flex flex-column flex-xl-row text-center text-xl-start gap-1">
