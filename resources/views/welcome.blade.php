@@ -72,59 +72,7 @@
                             <li class="nav-item"><a class="nav-link scroll-link active" aria-current="page"
                                     href="#home">Home</a></li>
                             <li class="nav-item"><a class="nav-link scroll-link" href="#about">About Us</a></li>
-                            <li class="nav-item dropdown">
-                                <a class="nav-link dropdown-toggle" href="#" data-bs-toggle="dropdown"
-                                    aria-expanded="false">
-                                    Services<i class="bi bi-chevron-down"></i>
-                                </a>
-                                <ul class="dropdown-menu">
-                                    <li>
-                                        <a class="nav-link scroll-link dropdown-item" href="#services">
-                                            Custom Software Development
-                                        </a>
-                                    </li>
-                                    <li>
-                                        <a class="nav-link scroll-link dropdown-item" href="#services">
-                                            Mobile App Development
-                                        </a>
-                                    </li>
-                                    <li>
-                                        <a class="nav-link scroll-link dropdown-item" href="#services">
-                                            AI & Machine Learning Solutions
-                                        </a>
-                                    </li>
-                                    <li>
-                                        <a class="nav-link scroll-link dropdown-item" href="#services">
-                                            HealthTech Solutions
-                                        </a>
-                                    </li>
-                                    <li>
-                                        <a class="nav-link scroll-link dropdown-item" href="#services">
-                                            GovTech & Enterprise Solutions
-                                        </a>
-                                    </li>
-                                    <li>
-                                        <a class="nav-link scroll-link dropdown-item" href="#services">
-                                            Learning Management Systems
-                                        </a>
-                                    </li>
-                                    <li>
-                                        <a class="nav-link scroll-link dropdown-item" href="#services">
-                                            AgroTech & Smart Farming
-                                        </a>
-                                    </li>
-                                    <li>
-                                        <a class="nav-link scroll-link dropdown-item" href="#services">
-                                            UI/UX Design & Research
-                                        </a>
-                                    </li>
-                                    <li>
-                                        <a class="nav-link scroll-link dropdown-item" href="#services">
-                                            System Audit & Consultancy
-                                        </a>
-                                    </li>
-                                </ul>
-                            </li>
+                            <li class="nav-item"><a class="nav-link scroll-link" href="#services">Services</a></li>
                             <li class="nav-item"><a class="nav-link scroll-link" href="#how-it-works">Portfolio</a></li>
                             <li class="nav-item"><a class="nav-link scroll-link" href="#testimonials">Testimonials</a>
                             </li>
