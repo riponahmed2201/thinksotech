@@ -36,29 +36,23 @@
 
 <body>
 
-
     <!-- ======= Site Wrap =======-->
     <div class="site-wrap">
-
 
         <!-- ======= Header =======-->
         <header class="fbs__net-navbar navbar navbar-expand-lg dark" aria-label="freebootstrap.net navbar">
             <div class="container d-flex align-items-center justify-content-between">
 
-
                 <!-- Start Logo-->
-                <a class="navbar-brand w-auto" href="index.html">
-                    <!-- If you use a text logo, uncomment this if it is commented-->
-                    <!-- Vertex-->
+                <a class="navbar-brand w-auto" href="/">
 
-                    <!-- If you plan to use an image logo, uncomment this if it is commented-->
-
-                    <!-- logo dark--><img class="logo dark img-fluid" src="assets/web/images/logo-dark.svg"
+                    <!-- logo dark-->
+                    <img class="logo dark img-fluid" src="assets/web/images/logo-dark.svg"
                         alt="FreeBootstrap.net image placeholder">
 
-                    <!-- logo light--><img class="logo light img-fluid" src="assets/web/images/logo-light.svg"
+                    <!-- logo light-->
+                    <img class="logo light img-fluid" src="assets/web/images/logo-light.svg"
                         alt="FreeBootstrap.net image placeholder">
-
                 </a>
                 <!-- End Logo-->
 
@@ -66,21 +60,17 @@
                 <div class="offcanvas offcanvas-start w-75" id="fbs__net-navbars" tabindex="-1"
                     aria-labelledby="fbs__net-navbarsLabel">
 
-
                     <div class="offcanvas-header">
                         <div class="offcanvas-header-logo">
-                            <!-- If you use a text logo, uncomment this if it is commented-->
 
-                            <!-- h5#fbs__net-navbarsLabel.offcanvas-title Vertex-->
-
-                            <!-- If you plan to use an image logo, uncomment this if it is commented-->
                             <a class="logo-link" id="fbs__net-navbarsLabel" href="index.html">
 
-
-                                <!-- logo dark--><img class="logo dark img-fluid" src="assets/web/images/logo-dark.svg"
+                                <!-- logo dark-->
+                                <img class="logo dark img-fluid" src="assets/web/images/logo-dark.svg"
                                     alt="FreeBootstrap.net image placeholder">
 
-                                <!-- logo light--><img class="logo light img-fluid" src="assets/web/images/logo-light.svg"
+                                <!-- logo light-->
+                                <img class="logo light img-fluid" src="assets/web/images/logo-light.svg"
                                     alt="FreeBootstrap.net image placeholder"></a>
 
                         </div>
@@ -90,17 +80,12 @@
 
                     <div class="offcanvas-body align-items-lg-center">
 
-
                         <ul class="navbar-nav nav me-auto ps-lg-5 mb-2 mb-lg-0">
                             <li class="nav-item"><a class="nav-link scroll-link active" aria-current="page"
                                     href="#home">Home</a></li>
-                            <li class="nav-item"><a class="nav-link scroll-link" href="#about">About</a></li>
-                            <li class="nav-item"><a class="nav-link scroll-link" href="#pricing">Pricing</a></li>
-                            <li class="nav-item"><a class="nav-link scroll-link" href="#how-it-works">How It Works</a>
-                            </li>
-                            <li class="nav-item"><a class="nav-link scroll-link" href="#services">Services</a></li>
+                            <li class="nav-item"><a class="nav-link scroll-link" href="#about">About Us</a></li>
                             <li class="nav-item dropdown"><a class="nav-link dropdown-toggle" href="#"
-                                    data-bs-toggle="dropdown" aria-expanded="false">Dropdown <i
+                                    data-bs-toggle="dropdown" aria-expanded="false">Services<i
                                         class="bi bi-chevron-down"></i></a>
 
                                 <ul class="dropdown-menu">
@@ -146,7 +131,12 @@
                                 </ul>
 
                             </li>
-                            <li class="nav-item"><a class="nav-link scroll-link" href="#contact">Contact</a></li>
+
+                            <li class="nav-item"><a class="nav-link scroll-link" href="#how-it-works">Portfolio</a>
+                            </li>
+                            <li class="nav-item"><a class="nav-link scroll-link" href="#services">Blog</a></li>
+
+                            <li class="nav-item"><a class="nav-link scroll-link" href="#contact">Contact Us</a></li>
                         </ul>
 
                     </div>
@@ -157,7 +147,7 @@
 
 
                     <div class="header-social d-flex align-items-center gap-1"><a class="btn btn-primary py-2"
-                            href="#">Get Started</a>
+                            href="#">Get a Quote</a>
 
                         <button class="fbs__net-navbar-toggler justify-content-center align-items-center ms-auto"
                             data-bs-toggle="offcanvas" data-bs-target="#fbs__net-navbars"
@@ -187,7 +177,6 @@
         <!-- ======= Main =======-->
         <main>
 
-
             <!-- ======= Hero =======-->
             <section class="hero__v6 section" id="home">
                 <div class="container">
@@ -195,15 +184,17 @@
                         <div class="col-lg-6 mb-4 mb-lg-0">
                             <div class="row">
                                 <div class="col-lg-11"><span class="hero-subtitle text-uppercase" data-aos="fade-up"
-                                        data-aos-delay="0">Innovative Fintech Solutions</span>
-                                    <h1 class="hero-title mb-3" data-aos="fade-up" data-aos-delay="100">Secure,
-                                        Efficient, and User-Friendly Financial Services</h1>
+                                        data-aos-delay="0">Think it. We solve it.</span>
+                                    <h1 class="hero-title mb-3" data-aos="fade-up" data-aos-delay="100">Innovate.
+                                        Think. Solve.</h1>
                                     <p class="hero-description mb-4 mb-lg-5" data-aos="fade-up" data-aos-delay="200">
-                                        Experience the future of finance with our secure, efficient, and user-friendly
-                                        financial services.</p>
+                                        Welcome to THINKSO — a modern tech company turning ideas into intelligent
+                                        digital solutions.
+                                        We simplify complexity through smart design, data, and automation.
+                                    </p>
                                     <div class="cta d-flex gap-2 mb-4 mb-lg-5" data-aos="fade-up"
-                                        data-aos-delay="300"><a class="btn" href="#">Get Started Now</a><a
-                                            class="btn btn-white-outline" href="#">Learn More
+                                        data-aos-delay="300"><a class="btn" href="#">Get Started</a><a
+                                            class="btn btn-white-outline" href="#">Contact Us
                                             <svg class="lucide lucide-arrow-up-right"
                                                 xmlns="http://www.w3.org/2000/svg" width="18" height="18"
                                                 viewbox="0 0 24 24" fill="none" stroke="currentColor"
@@ -459,7 +450,8 @@
                             <div class="step-card text-center h-100 d-flex flex-column justify-content-start position-relative"
                                 data-aos="fade-up" data-aos-delay="0">
                                 <div data-aos="fade-right" data-aos-delay="500"><img class="arch-line"
-                                        src="assets/web/images/arch-line.svg" alt="FreeBootstrap.net image placeholder">
+                                        src="assets/web/images/arch-line.svg"
+                                        alt="FreeBootstrap.net image placeholder">
                                 </div><span
                                     class="step-number rounded-circle text-center fw-bold mb-5 mx-auto">1</span>
                                 <div>
@@ -485,7 +477,8 @@
                             <div
                                 class="step-card text-center h-100 d-flex flex-column justify-content-start position-relative">
                                 <div data-aos="fade-right" data-aos-delay="1700"><img class="arch-line"
-                                        src="assets/web/images/arch-line.svg" alt="FreeBootstrap.net image placeholder">
+                                        src="assets/web/images/arch-line.svg"
+                                        alt="FreeBootstrap.net image placeholder">
                                 </div><span
                                     class="step-number rounded-circle text-center fw-bold mb-5 mx-auto">3</span>
                                 <h3 class="fs-5 mb-4">Explore Features</h3>
