@@ -12,16 +12,18 @@
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@100..900&display=swap" rel="stylesheet">
     <!-- End Google Font-->
 
+    <link rel="icon" type="image/svg+xml" href="{{ asset('assets/logo/ThinkSo-1.svg') }}">
+
     <!-- ======= Styles =======-->
-    <link href="assets/web/vendors/bootstrap/bootstrap.min.css" rel="stylesheet">
-    <link href="assets/web/vendors/bootstrap-icons/font/bootstrap-icons.min.css" rel="stylesheet">
-    <link href="assets/web/vendors/glightbox/glightbox.min.css" rel="stylesheet">
-    <link href="assets/web/vendors/swiper/swiper-bundle.min.css" rel="stylesheet">
-    <link href="assets/web/vendors/aos/aos.css" rel="stylesheet">
+    <link href="{{ asset('assets/web/vendors/bootstrap/bootstrap.min.css') }}" rel="stylesheet">
+    <link href="{{ asset('assets/web/vendors/bootstrap-icons/font/bootstrap-icons.min.css') }}" rel="stylesheet">
+    <link href="{{ asset('assets/web/vendors/glightbox/glightbox.min.css') }}" rel="stylesheet">
+    <link href="{{ asset('assets/web/vendors/swiper/swiper-bundle.min.css') }}" rel="stylesheet">
+    <link href="{{ asset('assets/web/vendors/aos/aos.css') }}" rel="stylesheet">
     <!-- End Styles-->
 
     <!-- ======= Theme Style =======-->
-    <link href="assets/web/css/style.css" rel="stylesheet">
+    <link href="{{ asset('assets/web/css/style.css') }}" rel="stylesheet">
     <!-- End Theme Style-->
 
     <!-- ======= Apply theme =======-->
@@ -1065,16 +1067,16 @@
     <!-- End Back to top-->
 
     <!-- ======= Javascripts =======-->
-    <script src="assets/web/vendors/bootstrap/bootstrap.bundle.min.js"></script>
-    <script src="assets/web/vendors/gsap/gsap.min.js"></script>
-    <script src="assets/web/vendors/imagesloaded/imagesloaded.pkgd.min.js"></script>
-    <script src="assets/web/vendors/isotope/isotope.pkgd.min.js"></script>
-    <script src="assets/web/vendors/glightbox/glightbox.min.js"></script>
-    <script src="assets/web/vendors/swiper/swiper-bundle.min.js"></script>
-    <script src="assets/web/vendors/aos/aos.js"></script>
-    <script src="assets/web/vendors/purecounter/purecounter.js"></script>
-    <script src="assets/web/js/custom.js"></script>
-    <script src="assets/web/js/send_email.js"></script>
+    <script src="{{ asset('assets/web/vendors/bootstrap/bootstrap.bundle.min.js') }}"></script>
+    <script src="{{ asset('assets/web/vendors/gsap/gsap.min.js') }}"></script>
+    <script src="{{ asset('assets/web/vendors/imagesloaded/imagesloaded.pkgd.min.js') }}"></script>
+    <script src="{{ asset('assets/web/vendors/isotope/isotope.pkgd.min.js') }}"></script>
+    <script src="{{ asset('assets/web/vendors/glightbox/glightbox.min.js') }}"></script>
+    <script src="{{ asset('assets/web/vendors/swiper/swiper-bundle.min.js') }}"></script>
+    <script src="{{ asset('assets/web/vendors/aos/aos.js') }}"></script>
+    <script src="{{ asset('assets/web/vendors/purecounter/purecounter.js') }}"></script>
+    <script src="{{ asset('assets/web/js/custom.js') }}"></script>
+    <script src="{{ asset('assets/web/js/send_email.js') }}"></script>
     <!-- End JavaScripts-->
 </body>
 
