@@ -90,8 +90,8 @@
                             data-bs-toggle="offcanvas" data-bs-target="#fbs__net-navbars"
                             aria-controls="fbs__net-navbars" aria-label="Toggle navigation" aria-expanded="false">
                             <svg class="fbs__net-icon-menu" xmlns="http://www.w3.org/2000/svg" width="24"
-                                height="24" viewbox="0 0 24 24" fill="none" stroke="currentColor"
-                                stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                                height="24" viewbox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+                                stroke-linecap="round" stroke-linejoin="round">
                                 <line x1="21" x2="3" y1="6" y2="6"></line>
                                 <line x1="15" x2="3" y1="12" y2="12"></line>
                                 <line x1="17" x2="3" y1="18" y2="18"></line>
@@ -919,7 +919,8 @@
                             <div class="d-flex gap-5 flex-column">
                                 <div class="d-flex align-items-start gap-3" data-aos="fade-up" data-aos-delay="0">
                                     <div class="icon d-block"><i class="bi bi-telephone"></i></div><span> <span
-                                            class="d-block">Phone</span><strong>+880 1234-567890</strong></span>
+                                            class="d-block">Phone</span><strong>+8801816-848182 <br>
+                                            +8801623-765846</strong></span>
                                 </div>
                                 <div class="d-flex align-items-start gap-3" data-aos="fade-up" data-aos-delay="100">
                                     <div class="icon d-block"><i class="bi bi-send"></i></div><span> <span
@@ -1029,7 +1030,8 @@
                                     <a class="d-flex mb-3" href="mailto:info@thinksotech.com"><i
                                             class="bi bi-envelope-fill me-3"></i><span>info@thinksotech.com</span></a>
                                     <a class="d-flex mb-3" href="tel:+8801234567890"><i
-                                            class="bi bi-telephone-fill me-3"></i><span>+880 1234-567890</span></a>
+                                            class="bi bi-telephone-fill me-3"></i><span>+8801816-848182
+                                            +8801623-765846</span></a>
                                     <a class="d-flex mb-3" href="https://thinksotech.com"><i
                                             class="bi bi-globe me-3"></i><span>thinksotech.com</span></a>
                                 </div>
