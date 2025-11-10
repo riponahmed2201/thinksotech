@@ -721,7 +721,7 @@
             <!-- Services-->
 
             <!-- ======= Testimonials =======-->
-            <section class="section testimonials__v2" id="testimonials">
+            {{-- <section class="section testimonials__v2" id="testimonials">
                 <div class="container">
                     <div class="row mb-5">
                         <div class="col-lg-5 mx-auto text-center"><span class="subtitle text-uppercase mb-3"
@@ -835,7 +835,7 @@
                         </div>
                     </div>
                 </div>
-            </section>
+            </section> --}}
             <!-- Testimonials-->
 
             <!-- ======= FAQ =======-->
